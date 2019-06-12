@@ -1,4 +1,4 @@
-# DU Data Viz Project Proposal
+# Economic Predictors of Brewery Success
 
 ## Hopped up on Data
 
